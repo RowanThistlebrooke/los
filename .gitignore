@@ -144,3 +144,4 @@ vite.config.ts.timestamp-*
 
 # Whoop refresh token
 .whoop_refresh
+.whoop_refresh.lock
